@@ -1,6 +1,5 @@
 # Example rabbitmq publisher and subscriber
 
-
 A monorepo is used for demonstrating example of sharing lib files
 
 ``` Bash
