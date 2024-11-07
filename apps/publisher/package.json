@@ -1,0 +1,11 @@
+{
+  "name": "publisher",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "lib": "1.0.0"
+  }
+}
